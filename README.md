@@ -13,3 +13,5 @@ This is a simple starter website package for the **Brew Haven Coffee Roasters** 
 - css/styles.css: Styling file
 - js/main.js: JavaScript file
 - images/wireframe_brew_haven.png: Wireframe/logo placeholder
+
+Repository link - https://github.com/Mickey171211/WEDE-Assignment-part-1.git 
